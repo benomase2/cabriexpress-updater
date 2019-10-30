@@ -1,0 +1,160 @@
+Cabri Express Personal Use License Agreement
+
+
+Cabrilog SAS (hereinafter "Cabrilog") hereby grants you as a licensee of the application (hereinafter "the licensee") a right of use and not a right of ownership for the Cabri Express application (hereinafter "the application") to be used online or offline, as well as its associated documentation or other resources.
+
+
+These terms and conditions are intended to define the terms of use of the application Cabri Express. Some features of the application are offered as complements to those of the free version as addendums (see below).
+
+
+By using the application, you agree in full to all terms and conditions of this agreement.
+
+
+
+Definitions
+-----------
+
+Cabri Express:  Software application for teaching and learning mathematics;
+
+
+Cabrilog SAS:  Company owner of Cabri Express, holding all intellectual property rights of the application and accompanying resources;
+
+
+Licensee:  Physical person (eg student, teacher, school counselor, author of educational content, ...) using the application Cabri Express;
+
+
+Storage space:  Area on a server, possibly allowing a user of Cabri Express to save documents created during a session with Cabri Express and to re-open later;
+
+
+Evaluation module:  Usage type of Cabri Express allowing the automatic evaluation of the activity for an individual student or class;
+
+
+FREE personal use license:  free license allowing the use of Cabri in an individual setting at home or in class as long as it is not generalized to the entire institution concerned.
+
+Some Cabri Express features such as storage and evaluation capabilities may be limited under such license;
+
+
+PAYED license (academic, institutional, publication of contents,...):  payed license to be used in academic, institutional or for the publication of contents,  allowing the use of extended functionalities, possibly without limitations, offered within the framework of the Cabri Express application.
+
+
+Such licenses may be governed by additional license agreements to this general license agreement. Further details on Cabri Express' non-free licenses can be obtained by visiting https://cabri.com  or by emailing info@cabri.com   .
+
+
+
+
+Using Cabri Express
+-------------------
+
+As stated in the preamble, the use of the Cabri Express application and accompanying tools or documentation is subject to the acceptance of all the terms of this agreement.
+
+
+The application allows you to access a mathematical kit integrating a scientific and graphical calculator, an equation editor, a dynamic geometry constructions editor, features for evaluation of the mathematical activity of the user, in the form of a dynamic mathematical environment.
+
+
+
+Cabri Express can contain information, data, texts, videos, written messages and comments, graphics and interactive animations called "content". The use, reproduction, modification, distribution or storage of such content for purposes other than the use of the application under the terms of this license is expressly prohibited. The licensee, in the case of a free license, is therefore not authorized to sell, use or otherwise exploit such content, in particular but not limited to purposes likely to generate revenue.
+
+
+
+
+Obligations of the licensee
+---------------------------
+
+The constituent elements of Cabri Express (animations, interactive exercises, branding, graphics, etc.) are protected by the Intellectual Property Code and copyright by all applicable international standards.
+
+Cabrilog does not grant licensees any other right than to use Cabri Express for the aforementioned purposes. As a result, the licensees are forbidden:
+
+ To broadcast the content of Cabri Express (executable, activities) by any means whatsoever, for any purpose likely to or with intent to generate revenue;
+
+ To download Cabri Express other than in the cases authorized by Cabrilog and, more generally, to exploit and / or use all or part of the elements of the software by any means and in any form whatsoever for any purpose other than those expressly authorized in this agreement.
+
+
+
+In the case of paper-based or 3D printing, the licensee guarantees that all the information appearing on the printed content relating to the protection of rights will be reproduced without modification. These prints may be used, in the case of a free license, only by the licensee for the licensee's own private use to the exclusion of all others and may in no case be disseminated to third parties.
+
+
+Any use of Cabri Express or any of its constituent parts outside of the terms of this license agreement is a breach of copyright and will be subject to civil / criminal proceeding.
+
+
+Any reverse engineering of Cabri Express is deemed unlawful and thus expressly prohibited.
+
+
+In addition, in case of violation by the licensee of any of the clauses of this license, Cabrilog will be entitled by law and without notice to suspend the licensee's access to Cabri Express.
+
+
+
+
+Liability
+---------
+
+Cabrilog may not be held responsible for any failures caused by any event whatsoever, in particular but not limited to possible network congestion (internet or local) or even if the equipment and connections of the licensee are defective, not compatible or technically insufficient or unsuitable for this type of exploitation.
+
+
+Similarly, it is the responsibility of the licensee to ensure that the filtering and/or protection devices that are in place do not prevent access to Cabri Express, nor the operation of the application.
+
+
+Cabrilog strives to ensure to the best of its ability the accuracy and maintenance of the information contained in the application which it reserves the right to correct, at any time and without notice.
+
+
+Cabrilog also reserves the right at any time to discontinue, temporarily or permanently the application with or without notice. It is agreed that Cabrilog is not liable to you or any third party for any modification, suspension, termination or discontinuance of the service.
+
+
+Unless explicitly stated otherwise, any new features that extend or enhance Cabri Express, including the release of new tools and resources, may be added to the application and made available to you, possibly as a paid extension.
+
+
+Cabrilog may, at its sole discretion, modify the features of Cabri Express without notice.
+
+
+Cabrilog does not guarantee that the application will meet your needs or is fit for any particular purpose, or that the application will run without interruption or be error free.
+
+
+
+
+Consequently, Cabrilog declines any responsibility:
+
+ for any occurrence of bugs or other events rendering Cabri Express unsuitable for use;
+
+ for any inaccuracy or omission concerning the information available in the Cabri Express application;
+
+ and more generally for any direct or indirect damage, whatever the cause or nature, resulting from the use of Cabri Express.
+
+
+
+
+Property / Intellectual Rights
+------------------------------
+
+Cabrilog retains ownership of all intellectual property rights of Cabri Express. This license does not grant any intellectual property rights in whole or in part to the licensee.
+
+
+
+
+Modifications
+-------------
+
+These conditions may be modified in accordance with a possible evolution of the application Cabri Express and without notice. It is the licensee's responsibility to consult these conditions regularly. Continued use of the Cabri Express application following any amendment to these terms of use is deemed equivalent to their acceptance in full.
+
+
+
+Contact information
+-------------------
+
+All notices and other correspondence should be sent to the following address:
+
+Cabrilog SAS
+
+122 Avenue du Vercors
+
+38600 Fontaine
+
+
+
+or via e-mail, at info@cabri.com
+
+
+
+Applicable Law - Litigation
+
+
+
+This license is governed by French law. Any dispute that may arise between Cabrilog and the licensee comes under the exclusive jurisdiction of the courts of Grenoble (France).

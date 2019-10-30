@@ -1,0 +1,146 @@
+Licence Cabri Express
+---------------------
+
+Par la presente, la societe Cabrilog SAS (ci-apres " Cabrilog ") vous concede en tant que licencie de l'application (ci-apres " le licencie ") un droit d'usage et non un droit de propriete quel qu'il soit de l'application Cabri Express (ci-apres " l'application ") utilisee en ligne ou hors ligne,  ainsi que de sa documentation associee.
+
+
+Les presentes conditions generales ont pour objet de definir les modalites d'utilisation de l'application Cabri Express. Certaines fonctionnalites de l'application sont proposees en tant que complements de celles de la version gratuite sous forme d'addendums (voir ci-dessous).
+
+
+En utilisant l'application Cabri Express, vous acceptez integralement les termes et conditions de cet accord.
+
+
+
+
+Definitions
+-----------
+
+Cabri Express : Application logicielle permettant l'enseignement et l'apprentissage des mathematiques ;
+
+
+
+Cabrilog SAS : Societe proprietaire de Cabri Express, detenant tous les droits de propriete intellectuelle de l'application ;
+
+
+
+Licencie : Personne physique (ex : eleve, enseignant, conseiller pedagogique, auteur de contenus pedagogiques,) utilisant l'application Cabri Express ;
+
+
+
+Espace de stockage : Zone d'un serveur, permettant eventuellement a un utilisateur de Cabri Express de sauvegarder des documents crees au cours d'une session avec Cabri Express et pouvant etre relus ulterieurement ;
+
+
+
+Module evaluation : Type d'usage de Cabri Express permettant l'evaluation automatique de l'activite d'un eleve individuel ou d'une classe.
+
+
+
+Module auteur : Type d'usage de Cabri permettant l'acces a l'integralite des fonctionnalites offertes (de mathematiques dynamiques et d'evaluation), en particulier pour la creation d'activites hautement interactives et eventuellement evaluables automatiquement par l'utilisateur lui-meme ou un professeur ;
+
+
+Licence individuelle GRATUITE : licence gratuite permettant l'usage de Cabri dans un cadre individuel a la maison ou en classe dans la mesure ou il n'est pas generalise a l'ensemble de l'etablissement scolaire concerne.
+
+Certaines fonctionnalites de Cabri Express  comme les possibilites de stockage et d'evaluation peuvent etre limitees dans cette version ;
+
+
+Licence NON GRATUITE,  academique, institutionnelle ou de publication de contenus : licence permettant l'usage de fonctionnalites etendues, eventuellement sans limitations, offertes dans le cadre de l'application Cabri Express.
+
+Une telle licence peut etre regie par des contrats de licence additionnels au present contrat de licence de caractere general. De plus amples precisions sur les licences non gratuite de Cabri Express peuvent etre obtenues en visitant
+
+https://cabri.com ou encore aupres de info@cabri.com .
+
+
+
+
+Utilisation de Cabri Express
+----------------------------
+
+Comme indique en preambule l'usage de l'application Cabri Express et des outils ou documentations l'accompagnant est soumise a l'acceptation sans restriction des termes de la presente.
+
+L'application vous permet d'acceder a un kit mathematique integrant une calculatrice scientifique et graphique, un editeur d'equations, un editeur de constructions de geometrie dynamique, de fonctionnalites d'evaluation de l'activite mathematique de l'utilisateur sous forme d'un environnement de mathematiques dynamiques.
+
+Cabri Express peut contenir des informations, donnees, textes, videos, messages ecrits et commentaires, graphiques et animations interactives appeles " contenus ". L'utilisation, la reproduction, la modification, la distribution ou le stockage de ces contenus a des fins autres que l'utilisation de l'application selon les termes de la licence est expressement interdite. Le licencie, dans le cas d'une licence gratuite, n'est donc pas autorise, a vendre, utiliser ou exploiter de quelque maniere que ce soit de tels contenus, en particulier a des fins susceptibles de generer un revenu.
+
+
+
+Obligations du licencie
+-----------------------
+
+Les elements constitutifs de Cabri Express (animations, exercices interactifs, marques, graphismes, etc.) sont protegees par le Code de la Propriete Intellectuelle et le droit d'auteur ainsi que par toutes les normes internationales applicables.
+
+Cabrilog ne concede aux licencies aucun autre droit que celui d'utiliser Cabri Express aux fins susvisees. En consequence, les licencies s'interdisent notamment :
+
+ De diffuser le contenu de Cabri Express (executable, activites) par quelque moyen que ce soit, a toute fin susceptible de generer un revenu ;
+
+ De telecharger Cabri Express autrement que dans les cas autorises par Cabrilog et, plus generalement d'exploiter et/ou d'utiliser tout ou une partie des elements du logiciel par quelque moyen que ce soit et sous quelque forme que ce soit a des fins autres que celles expressement autorisees.
+
+En cas d'impression sur support papier, le licencie garantit que toutes les mentions figurant eventuellement sur le contenu ainsi imprime relatives a la protection des droits seront reproduites sans modifications. Ces copies ne pourront etre utilisees, dans le le cas d'une licence gratuite, que par le seul licencie a des fins personnelles pour son seul usage prive a l'exclusion de tout autre et ne pourront en aucun cas etre diffusees aupres des tiers non autorises.
+
+Toute utilisation du contenu de Cabri Express  ou d'un quelconque de ses elements contraire aux presentes engagera la responsabilite du licencie notamment a l'egard de Cabrilog, et sera susceptible de l'exposer a des sanctions penales.
+
+Toute action d'ingenierie inversee portant sur Cabri Express est expressement reputee illicite.
+
+En outre, en cas de violation par le licencie de l'une quelconque des clauses de la presente licence, Cabrilog sera habilite de plein droit et sans preavis a suspendre l'acces du licencie a Cabri Express.
+
+
+
+Responsabilite
+--------------
+
+La responsabilite de Cabrilog ne saurait etre recherchee pour des defaillances pour quelque cause que cela soit, par exemple comme dues a d'eventuelles saturations de reseau (internet comme local) ou encore au cas ou les materiels et les connexions du licencie seraient defectueux, non compatibles ou de capacites techniques insuffisantes ou inadaptees a ce type d'exploitation.
+
+De meme, il appartient au licencie de s'assurer que les dispositifs de filtrage et/ou de protection qu'il aurait mis en place n'empechent pas l'acces a Cabri Express, non plus que le fonctionnement de l'application.
+
+Cabrilog s'efforce d'assurer au mieux de ses possibilites l'exactitude et la mise a jour des informations figurant dans l'application dont elle se reserve le droit de correction, a tout moment et sans preavis.
+
+Cabrilog se reserve aussi le droit a tout moment d'interrompre, temporairement ou definitivement l'application avec ou sans preavis. De meme Cabrilog ne peut pas etre tenu responsable envers vous ou envers un tiers pour toute modification, suspension, resiliation ou interruption du service.
+
+
+Sauf mention contraire explicite, toute nouvelle fonctionnalite qui augmente ou ameliore Cabri Express, y compris la publication de nouveaux outils et ressources, sont susceptibles d'etre ajoutees a l'application et mis a votre disposition en tant qu'extension payante.
+
+Cabrilog peut, a sa seule discretion, modifier les caracteristiques de Cabri Express sans preavis.
+
+Cabrilog ne garantit pas ni que l'application reponde a vos besoins, ni que l'application fonctionnera sans interruption, ni qu'elle soit exempte d'erreurs.
+
+En consequence, Cabrilog decline toute responsabilite :
+
+  pour toute survenue de bogues ou autre evenement rendant Cabri Express impropre a son usage ;
+
+  pour toute inexactitude ou omission portant sur les informations disponibles dans l'application Cabri Express ;
+
+ et plus generalement pour tout dommage direct ou indirect, quelle qu'en soit la cause ou la nature, resultant de la consultation et de l'usage de Cabri Express.
+
+
+
+Droits de propriete / Intellectuelle
+------------------------------------
+
+Cabrilog conserve la propriete de tous les droits de propriete de Cabri Express. Cette licence n'accorde aucun droit de propriete intellectuelle au licencie.
+
+
+
+Modifications
+-------------
+Les presentes conditions pourront faire l'objet de modifications conformement a une eventuelle evolution de l'application Cabri Express. Aussi le licencie est invite a consulter ces conditions regulierement. La poursuite de l'utilisation continue de l'application Cabri Express a la suite d'une eventuelle modification des presentes conditions d'utilisation equivaut a leur acceptation.
+
+
+
+Coordonnees
+-----------
+
+Toute notification et autre correspondance devra etre adressee a l'adresse suivante :
+
+Cabrilog SAS
+
+122 Avenue du Vercors
+
+38600 Fontaine
+
+ou encore via courrier electronique, a  info@cabri.com
+
+
+
+Droit Applicable - Litiges
+
+
+Cette licence est regie par le droit francais. Toute contestation pouvant survenir entre Cabrilog et le licencie releve de la competence exclusive des juridictions de Grenoble (France).

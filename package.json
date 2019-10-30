@@ -1,0 +1,75 @@
+{
+  "name": "CabriExpress",
+  "version": "1.2019.708",
+  "description": "description",
+  "main": "www/main.js",
+  "author": "Cabrilog SAS",
+  "license": "CC0-1.0",
+  "scripts": {
+    "start": "electron .",
+    "postinstall": "install-app-deps",
+    "pack": "build --dir",
+    "dist": "build"
+  },
+  "build": {
+    "appId": "com.cabri.mac.cabriexpress",
+    "productName": "CabriExpress",
+    "dmg": {
+      "contents": [
+        {
+          "x": 110,
+          "y": 150
+        },
+        {
+          "x": 240,
+          "y": 150,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ]
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.ico",
+      "fileAssociations": [
+        {
+          "ext": "clmx",
+          "icon": "build/icon.ico",
+          "role": "Editor",
+          "isPackage": true
+        }
+      ],
+      "certificateFile": "build/certificate-2017.pfx",
+      "publisherName": "cabrilog",
+      "certificatePassword": "vide"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": true,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true,
+      "runAfterFinish": false,
+      "installerSidebar": "build/left.bmp"
+    }
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
+    "i18n": "^0.8.3",
+    "os-locale": "^3.0.1",
+    "electron-updater": "^4.1.2"
+  },
+  "devDependencies": {
+    "electron": "^4.1.0",
+    "electron-builder": "^20.39.0",
+    "electron-squirrel-startup": "^1.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "winreg": "^1.2.4",
+    "winston": "^2.4.2",
+    "winston-loggly-bulk": "^2.0.2"
+  }
+}

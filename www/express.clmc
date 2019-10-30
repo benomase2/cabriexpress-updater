@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clm_data>
+<cps_document version="3.9.0 (304)" platform="Windows">
+<cps_properties>
+	<score min="0">?</score>
+</cps_properties>
+<![CDATA[
+<de_figure version="1.0.1.276" format="1.0">
+create_freepoint(1,-0.8201058201058213,-1.1375661375661359);
+set_attributes(1,pointshape="dil",pencolor="0.8,0.2,0.2,1",identifier="39577",layer="4");
+create_coordsystem_1pt(2,1,-0.8201058201058213,-1.1375661375661359,1,-2.4492127076447545E-016,6.1230317691118863E-017,1);
+set_attributes(2,layer="4");
+create_grid(3,2,-3.8359788359788354,5.8730158730158735,13.0158730158730194,9.0211640211640116,);
+set_attributes(3,pensize="2",pencolor="0.5,0.5,0.5,0.3",filled="1",fillcolor="0.8,0.8,0.8,0.1",hasgridlines="1",identifier="39578",layer="4");
+create_axis(4,2,0);
+set_attributes(4,arrowshape="nor",pensize="2",pencolor="0.3,0.3,0.3,1",identifier="39591",layer="4",smartline="0,0.5,1,0.5,1");
+create_axistext(5,4,3,9.5898941798941841,-1.5079365079365088,0.3703703703703704,0.7407407407407408,1,"<FONT face=\"Times New Roman\" size=\"14\"><I>x</I></FONT>");
+set_attributes(5,pencolor="0.3,0.3,0.3,1",filled="0",fillcolor="0,0,0,0",layer="4");
+create_axistext(6,4,3,-1.2175661375661389,-1.746666666666665,0.3174603174603175,0.5291005291005292,3,"<FONT face=\"Arial\" size=\"9\">0</FONT>");
+set_attributes(6,pencolor="0,0,0,1",filled="0",fillcolor="1,1,1,1",layer="4");
+create_axistext(7,4,3,0.0476190476190464,-1.667301587301586,0.2645502645502646,0.4497354497354498,4,"<FONT face=\"Arial\" size=\"9\">1</FONT>");
+set_attributes(7,pencolor="0,0,0,1",filled="0",fillcolor="1,1,1,1",layer="4");
+create_axistext(8,4,3,-4.0052910052910065,-1.6673015873015851,0.3703703703703704,0.4497354497354498,6,"<FONT face=\"Arial\" size=\"9\">-3</FONT>");
+set_attributes(8,pencolor="0,0,0,1",filled="0",fillcolor="1,1,1,1",layer="4");
+create_axistext(9,4,3,8.9682539682539666,-1.6673015873015882,0.4232804232804233,0.4497354497354498,8,"<FONT face=\"Arial\" size=\"9\">10</FONT>");
+set_attributes(9,pencolor="0,0,0,1",filled="0",fillcolor="1,1,1,1",layer="4");
+create_axis(10,2,1);
+set_attributes(10,arrowshape="nor",pensize="2",pencolor="0.3,0.3,0.3,1",identifier="39597",layer="4",smartline="0,0.5,1,0.5,1");
+create_axistext(11,10,3,-1.0052910052910058,6.2830158730158736,0.3703703703703704,0.7407407407407408,2,"<FONT face=\"Times New Roman\" size=\"14\"><I>y</I></FONT>");
+set_attributes(11,pencolor="0.3,0.3,0.3,1",filled="0",fillcolor="0,0,0,0",layer="4");
+create_axistext(12,10,3,-1.1646560846560858,-0.3624338624338607,0.2645502645502646,0.4497354497354498,5,"<FONT face=\"Arial\" size=\"9\">1</FONT>");
+set_attributes(12,pencolor="0,0,0,1",filled="0",fillcolor="1,1,1,1",layer="4");
+create_axistext(13,10,3,-1.2704761904761919,-3.3624338624338606,0.3703703703703704,0.4497354497354498,7,"<FONT face=\"Arial\" size=\"9\">-2</FONT>");
+set_attributes(13,pencolor="0,0,0,1",filled="0",fillcolor="1,1,1,1",layer="4");
+create_axistext(14,10,3,-1.1646560846560854,5.6375661375661394,0.2645502645502646,0.4497354497354498,9,"<FONT face=\"Arial\" size=\"9\">7</FONT>");
+set_attributes(14,pencolor="0,0,0,1",filled="0",fillcolor="1,1,1,1",layer="4");
+</de_figure>
+<cg_view version="1.0.1" format="1.0">
+editlock(1);
+movelock(5);
+editlock(5);
+movelock(6);
+editlock(6);
+movelock(7);
+editlock(7);
+movelock(8);
+editlock(8);
+movelock(9);
+editlock(9);
+movelock(11);
+editlock(11);
+movelock(12);
+editlock(12);
+movelock(13);
+editlock(13);
+movelock(14);
+editlock(14);
+</cg_view>
+]]>
+
+<cps_document_structure format="0.2">
+	<layout>
+		<size width="21cm" height="14.85cm"/>
+	</layout>
+	<layerlist>
+		<layer id="1" name="student"/>
+		<layer id="4" name="graph"/>
+		<layer id="2" name="construction"/>
+		<layer id="3" name="success"/>
+		<layer id="5" name="failure"/>
+		<layer id="6" name="help"/>
+		<layer id="7" name="solution"/>
+		<layer id="8" name="statement"/>
+	</layerlist>
+	<pagelist>
+		<page>
+			<name>Page 1</name>
+			<appearance>
+				<sheet>
+					<color>(1, 1, 1, 1)</color>
+					<image position="stretch" alleviation="0"><md5></md5></image>
+				</sheet>
+				<background>
+					<color>(0.98, 0.98, 0.98, 1)</color>
+					<image position="stretch" alleviation="0"><md5></md5></image>
+				</background>
+			</appearance>
+			<calculator x="-10.5" y="7.425" docking="left" mode="num" settable_mode="true" precision="2" opened="true"/>
+			<azimuth value="0"/>
+			<elevation value="90"/>
+			<layers>
+				<layer id="1"/>
+				<layer id="8" behavior="locked" main="true"/>
+				<layer id="4" behavior="locked,masked"/>
+				<layer id="2" behavior="locked,masked"/>
+				<layer id="3" behavior="locked,masked"/>
+				<layer id="5" behavior="locked,masked"/>
+				<layer id="6" behavior="locked,masked"/>
+				<layer id="7" behavior="locked,masked"/>
+			</layers>
+		</page>
+	</pagelist>
+</cps_document_structure>
+
+<cps_settings format="0.2">
+	<windowcontext>zoom_adjust="true" zoom_visible="false" zoom_value="100" zoom_sliders_hv="0.5,0.5" window_geometry="AdnQywACAAAAAAAeAAAAHgAABJ0AAAM1AAAAJwAAAEQAAASUAAADLAAAAAAAAAAAB4A=" dock_view="true,true"</windowcontext>
+	<profile>creator</profile>
+	<level id="2"/>
+	<tooltips enabled="true"/>
+	<undoredo enabled="true"/>
+	<autosave enabled="true"/>
+	<turnpage enabled="true"/>
+	<rtlorientation enabled="false"/>
+	<arrowsonlines enabled="false"/>
+	<pagesbrowser enabled="false"/>
+	<blocks realistic="true"/>
+	<animated>true</animated>
+	<locked>false</locked>
+	<attributes>
+		<id>point</id>
+		<pencolor>(0.8, 0.2, 0.2, 1)</pencolor>
+		<pointshape>dil</pointshape>
+	</attributes>
+	<attributes>
+		<id>line</id>
+		<pencolor>(0, 0, 1, 1)</pencolor>
+		<pensize>2</pensize>
+		<arrowshape>cir</arrowshape>
+	</attributes>
+	<attributes>
+		<id>vector</id>
+		<pencolor>(0.2, 0.8, 0.2, 1)</pencolor>
+		<pensize>2</pensize>
+	</attributes>
+	<attributes>
+		<id>circle</id>
+		<pencolor>(0, 0.5, 0, 1)</pencolor>
+		<pensize>2</pensize>
+		<filled>true</filled>
+		<fillcolor>(0, 0.5, 0, 0.1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>arccircle</id>
+		<pencolor>(0.1, 0.7, 0.3, 1)</pencolor>
+		<pensize>2</pensize>
+	</attributes>
+	<attributes>
+		<id>polygon</id>
+		<pencolor>(1, 0.1, 0.1, 1)</pencolor>
+		<pensize>2</pensize>
+		<filled>true</filled>
+		<fillcolor>(1, 0.1, 0.1, 0.2)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>locus</id>
+		<pencolor>(0.8, 0.2, 0.2, 1)</pencolor>
+		<pensize>2</pensize>
+	</attributes>
+	<attributes>
+		<id>graph</id>
+		<pencolor>(0.2, 0.2, 0.8, 1)</pencolor>
+		<pensize>2</pensize>
+	</attributes>
+	<attributes>
+		<id>conic</id>
+		<pencolor>(0.2, 0.2, 0.8, 1)</pencolor>
+		<pensize>2</pensize>
+	</attributes>
+	<attributes>
+		<id>text</id>
+		<pencolor>(0.2, 0.2, 0.2, 1)</pencolor>
+		<filled>false</filled>
+		<fillcolor>(1, 1, 1, 1)</fillcolor>
+		<fontface>Arial</fontface>
+		<fontsize>18</fontsize>
+	</attributes>
+	<attributes>
+		<id>textzone</id>
+		<pencolor>(0.2, 0.2, 0.2, 1)</pencolor>
+		<filled>true</filled>
+		<fillcolor>(1, 1, 1, 1)</fillcolor>
+		<fontface>Arial</fontface>
+		<fontsize>18</fontsize>
+	</attributes>
+	<attributes>
+		<id>textnote</id>
+		<pencolor>(0.2, 0.2, 0.2, 1)</pencolor>
+		<filled>true</filled>
+		<fillcolor>(1, 0.95, 0.8, 1)</fillcolor>
+		<fontface>Arial</fontface>
+		<fontsize>18</fontsize>
+	</attributes>
+	<attributes>
+		<id>button</id>
+		<pencolor>(0.8, 0.2, 0.2, 1)</pencolor>
+		<filled>false</filled>
+		<fillcolor>(1, 1, 1, 1)</fillcolor>
+		<fontface>Arial</fontface>
+		<fontsize>18</fontsize>
+	</attributes>
+	<attributes>
+		<id>buttonlabel</id>
+		<filled>false</filled>
+		<fillcolor>(1, 1, 1, 1)</fillcolor>
+		<fontface>Arial</fontface>
+		<fontsize>18</fontsize>
+	</attributes>
+	<attributes>
+		<id>prism</id>
+		<pencolor>(0.8, 0.2, 0.2, 1)</pencolor>
+		<pensize>2</pensize>
+		<fillcolor>(0, 0.5, 1, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>pyramid</id>
+		<pencolor>(0.8, 0.2, 0.2, 1)</pencolor>
+		<pensize>2</pensize>
+		<fillcolor>(0.2, 0.2, 0.8, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>regularpolyhedron</id>
+		<pencolor>(0.8, 0.8, 0.8, 1)</pencolor>
+		<pensize>2</pensize>
+		<fillcolor>(1, 0.5, 0, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>net</id>
+		<pencolor>(0.55, 0.55, 0.55, 1)</pencolor>
+		<pensize>2</pensize>
+		<fillcolor>(1, 1, 0.5, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>cylinder</id>
+		<fillcolor>(1, 1, 0, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>cone</id>
+		<fillcolor>(1, 0, 1, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>sphere</id>
+		<fillcolor>(0, 1, 0, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>model3</id>
+		<fillcolor>(0.8, 0.8, 0.8, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>slider</id>
+		<pencolor>(0.161, 0.671, 0.886, 1)</pencolor>
+		<filled>false</filled>
+		<fillcolor>(0.92, 0.92, 0.92, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>qcm</id>
+		<pencolor>(0.2, 0.2, 0.2, 1)</pencolor>
+		<filled>false</filled>
+		<fillcolor>(1, 1, 1, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>cellarray</id>
+		<pencolor>(0.2, 0.2, 0.2, 1)</pencolor>
+		<filled>true</filled>
+		<fillcolor>(1, 1, 1, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>dataview</id>
+		<pencolor>(0.4, 0.4, 0.4, 1)</pencolor>
+		<filled>true</filled>
+		<fillcolor>(1, 1, 1, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>grid</id>
+		<pencolor>(0.5, 0.5, 0.5, 0.3)</pencolor>
+		<pensize>2</pensize>
+		<filled>true</filled>
+		<fillcolor>(0.8, 0.8, 0.8, 0.1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>axis</id>
+		<pencolor>(0.3, 0.3, 0.3, 1)</pencolor>
+		<pensize>2</pensize>
+		<filled>false</filled>
+		<fillcolor>(0, 0, 0, 0)</fillcolor>
+		<arrowshape>nor</arrowshape>
+	</attributes>
+	<attributes>
+		<id>component</id>
+		<pencolor>(0.3, 0.3, 0.3, 1)</pencolor>
+		<pensize>2</pensize>
+		<filled>true</filled>
+		<fillcolor>(0.965, 0.757, 0.576, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>facet</id>
+		<pencolor>(0.8, 0.8, 0.8, 1)</pencolor>
+		<pensize>2</pensize>
+		<fillcolor>(1, 0.5, 0, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>media</id>
+		<pencolor>(0, 0, 0, 1)</pencolor>
+		<pensize>2</pensize>
+		<filled>false</filled>
+		<fillcolor>(1, 1, 1, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>group</id>
+		<filled>false</filled>
+		<fillcolor>(0, 1, 0, 1)</fillcolor>
+	</attributes>
+	<attributes>
+		<id>trace</id>
+		<pencolor>(0, 0, 1, 1)</pencolor>
+		<pensize>2</pensize>
+		<filled>false</filled>
+		<fillcolor>(0, 0, 1, 0.1)</fillcolor>
+		<pointshape>dil</pointshape>
+	</attributes>
+	<attributes>
+		<id>container</id>
+		<pencolor>(1, 0.1, 0.1, 1)</pencolor>
+		<pensize>2</pensize>
+		<filled>true</filled>
+		<fillcolor>(1, 0.1, 0.1, 0.2)</fillcolor>
+	</attributes>
+</cps_settings>
+</cps_document>
+</clm_data>
